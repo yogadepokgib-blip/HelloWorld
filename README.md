@@ -13,3 +13,4 @@ Aplikasi menampilkan teks "Hello, World!" pada emulator/perangkat Android.
 - Git
 ## Bukti!
 [screen1.png](images/screen1.png)
+![screen2.jpg](images/screen2.jpg)
